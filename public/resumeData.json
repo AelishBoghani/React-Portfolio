@@ -1,0 +1,135 @@
+{
+  "main": {
+    "name": "Aelish Boghani",
+    "occupation": "Web developer and Self Learner",
+    "description": "I eat, sleep and breathe React",
+    "image": "profile.jpg",
+    "bio": "Hi there! I am Aelish! I've been coding for over 3 years now. As a Full Stack developer I've worked both with startups and small corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers.",
+    "contactmessage": "contact me or ask me anything about web development!",
+    "email": "aelishboghani4@gmail.com",
+    "phone": "+91 9512683911",
+    "address": {
+      "street": "Raysan, PDPU Road",
+      "city": "Gandhinagar",
+      "state": "Gujarat",
+      "zip": "320007"
+    },
+    "website": "https://aelishboghani.github.io/My-Portfolio.github.io/",
+    "resumedownload": "https://drive.google.com/file/d/1gTwaanhQiVecKcyA1R8CiePr9IxQoLeI/view?usp=sharing",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UC4uzslL8o9sQTI59Uo-kI6w",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.linkedin.com/in/aelish-boghani/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/aelish-boghani/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.linkedin.com/in/aelish-boghani/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/AelishBoghani",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Pandit Deendayal Petroleum University ",
+        "degree": "B.Tech In Information and Communication Technology ",
+        "graduated": "In 2022",
+        "description": "CGPA: 9.4 (till 5th semester) "
+      }
+    ],
+    "work": [
+      {
+        "company": "The Young Minds, Kolkata",
+        "title": "Web developer intern",
+        "years": "October 2020 - PRESENT",
+        "description": "Built an Loading pages for website, working in frontend parts of website and working in backend development part"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "",
+        "image": "amazon.jpg",
+        "url": "https://clone-77b6d.web.app/"
+      },
+      {
+        "title": "Facebook Clone (React JS)",
+        "category": "",
+        "image": "facebook.jpg",
+        "url": "https://fb-clone-5a9f5.web.app/"
+      },
+      {
+        "title": "Signal Clone (React Native)",
+        "category": "",
+        "image": "signal.jpg",
+        "url": "https://signal-clone-8babd.web.app/"
+      },
+      {
+        "title": "Instagram Clone (React js)",
+        "category": "",
+        "image": "insta.jpg",
+        "url": "https://instagram-clone-adafa.web.app"
+      },
+      {
+        "title": "CPU Scheduling Algorithms Web App (HTML,CSS,JS)",
+        "category": "",
+        "image": "cpu.jpg",
+        "url": "https://cpu-scheduling-algorithm-38523.web.app/"
+      }
+     
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Aelish is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Yash Chovatiya"
+      },
+      {
+        "text": "Learning with Aelish has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Raj Gothi"
+      }
+    ]
+  }
+}
